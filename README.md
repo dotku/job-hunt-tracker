@@ -7,7 +7,7 @@ the date I applied, where (or how) I found the opening, and current stage of the
 That list especially came in handy for phone interviews, but regardless of how close I was (or wasn’t) 
 to getting any particular job, I don’t know how I could’ve kept track of anything during my 
 job search without that spreadsheet. If you’re having trouble remembering little details, 
-like how you found a particular posting, cobble together a tracker for yourself.
+like how you found a particular posting, cobble together a tracker for yourself.  
 > https://www.themuse.com/advice/3-ways-people-mess-up-the-simple-answer-to-how-did-you-come-across-this-job-opportunity
 
 I think a single google sheet would be good enough, but I think it might be fun to create a job tracker to help other 
@@ -24,3 +24,4 @@ Fileds:
 - Related Educational Resource
 
 I think the purpose could be help the company to find the ideal talent easily. (There already linkedin tho ...)
+
